@@ -1,2 +1,3 @@
-How to install pyspark.
-pip install pyspark
+The following requirements below need to be installed.
+1)Java.
+2)Pyspark.
